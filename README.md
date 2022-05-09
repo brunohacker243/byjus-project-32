@@ -1,2 +1,1 @@
-# byjus-project-32
-Byju's project 32.
+# PRO-V2-C32-Modelo
